@@ -10,5 +10,4 @@ level = "info"
 # https://docs.python.org/2.6/library/logging.html#formatter-objects
 # Default: "%(asctime)s %(message)s"
 messageFormat = "%(asctime)s %(levelname)s: %(message)s"
-
 STREAMLIT_SERVER_MAX_UPLOAD_SIZE=1000
